@@ -29,7 +29,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'statsd-ruby', '~> 1.3.0'
 
 # Use sentry-raven for sending logs to Sentry via the raven protocol
-gem 'sentry-raven', '0.15.6'
+gem 'sentry-raven'
 
 gem 'logstash-logger'
 gem 'request_store', '~> 1.3.1'
